@@ -3,7 +3,7 @@
 
 The purpose of this repository is to communicate the high-level roadmap for PubPub Platform development.
 
-We welcome ideas, feature requests, bug reports, and general feedback at the [PubPub Platform Discussion Forum]((https://github.com/pubpub/platform/discussions)), which we use to determine our roadmap.
+We welcome ideas, feature requests, bug reports, and general feedback at the [PubPub Platform Discussion Forum](https://github.com/pubpub/platform/discussions), which we use to determine our roadmap.
 You can see our sprint-by-sprint workstream, which contains a more granular view of what we're currently working on, or planning to work on, in the next few weeks, [here](https://github.com/orgs/pubpub/projects/43/views/1).
 
 For help with PubPub Platform or PubPub Legacy, visit https://help.knowledgefutures.org.
