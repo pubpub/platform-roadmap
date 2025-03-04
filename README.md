@@ -20,7 +20,8 @@ We may, for example, start the work in the prior quarter, and we may end up scop
 But once a quarter starts, we try to complete the majority of the work expected by that quarter by its end.
 
 ### Status
-All items on the roadmap represent work that is not yet completed. 
+We use statuses, described in more detail below, to give a rough guide of where each item is on a spectrum from being reviewed to being worked on.
+All items on the roadmap represent work that is not yet completed.
 Once the work is complete and the items close, we archive them so that they are no longer taking up space on board.
 To see granular descriptions of completed work, visit the Platform repo's closed [pull requests](https://github.com/pubpub/platform/pulls?q=is%3Apr+is%3Aclosed).
 We will soon be adding automated changelog documentation so you can view completed work in a more friendly format.
